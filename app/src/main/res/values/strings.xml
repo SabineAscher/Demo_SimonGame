@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimonGame</string>
+    <string name="restart_button">Restart</string>
+    <string name="game_name">SIMON GAME</string>
+    <string name="normalMode_button">Normal Mode</string>
+    <string name="fastMode_button">Fast Mode</string>
+</resources>
